@@ -1,0 +1,9 @@
+@charset UTF-8 
+
+figure.rosto img {
+    
+    background-color: red;
+    margin: 50px;
+    border: 10px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    }
